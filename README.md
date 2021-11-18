@@ -9,6 +9,8 @@ Je m'intéresse depuis peu au monde de l'open-source, car je pense qu'il est pos
 - 💻 Développer des projets
 - 💪 Langage préférer : PHP
 - Framework préférer : Laravel 😍
+- 💎 Cryptos & blockchain 
+- 💼 Entreprenariat
 
 ## Je travaille avec...
 ![enter image description here](https://img.shields.io/badge/-HTML-lightgrey) ![enter image description here](https://img.shields.io/badge/-CSS-lightgrey) ![enter image description here](https://img.shields.io/badge/-Javascript-lightgrey) ![enter image description here](https://img.shields.io/badge/-Jquery-lightgrey) ![enter image description here](https://img.shields.io/badge/-Php-lightgrey) ![enter image description here](https://img.shields.io/badge/-Laravel-lightgrey) ![enter image description here](https://img.shields.io/badge/-React.js-lightgrey) ![enter image description here](https://img.shields.io/badge/-Wordpress-lightgrey) 
