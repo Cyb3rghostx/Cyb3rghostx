@@ -4,24 +4,16 @@ Je m'intéresse depuis peu au monde de l'open-source, car je pense qu'il est pos
 
 ## Ce que j'aime :
 
- - ❓ Découvrir de nouvelles choses
- - 💡 Trouver des idées 
- - 💻 Développer des projets 
- - 💪 Langage préférer : PHP 
- - Framework préférer : Laravel 😍
+- ❓ Découvrir de nouvelles choses
+- 💡 Trouver des idées
+- 💻 Développer des projets
+- 💪 Langage préférer : PHP
+- Framework préférer : Laravel 😍
 
-## Skills
+## Je travaille avec...
+![enter image description here](https://img.shields.io/badge/-HTML-lightgrey) ![enter image description here](https://img.shields.io/badge/-CSS-lightgrey) ![enter image description here](https://img.shields.io/badge/-Javascript-lightgrey) ![enter image description here](https://img.shields.io/badge/-Jquery-lightgrey) ![enter image description here](https://img.shields.io/badge/-Php-lightgrey) ![enter image description here](https://img.shields.io/badge/-Laravel-lightgrey) ![enter image description here](https://img.shields.io/badge/-React.js-lightgrey) ![enter image description here](https://img.shields.io/badge/-Wordpress-lightgrey) 
 
-| Compétences | Mes outils |
-|--|--|
-| HTML / CSS | Notions |
-| Javascript | Trello |
-| Jquery | Git |
-| Php | Grafana |
-| Laravel | Nodejs |
-| React.js | Npm / Composer  |
-| Wordpress | SSH |
-| --------- | Postman / Thunder client |
-| --------- | VSCODE |
+## Outils
+![enter image description here](https://img.shields.io/badge/-Trello-lightgrey) ![enter image description here](https://img.shields.io/badge/-Git-lightgrey) ![enter image description here](https://img.shields.io/badge/-Grafana-lightgrey) ![enter image description here](https://img.shields.io/badge/-Nodejs-lightgrey) ![enter image description here](https://img.shields.io/badge/-Npm-lightgrey) ![enter image description here](https://img.shields.io/badge/-Composer-lightgrey) ![enter image description here](https://img.shields.io/badge/-SSH-lightgrey) ![enter image description here](https://img.shields.io/badge/-Postman-lightgrey) ![enter image description here](https://img.shields.io/badge/-ThunderClient-lightgrey)  ![enter image description here](https://img.shields.io/badge/-VSCODE-lightgrey)
 
 N'hésitez pas à visiter **mon portfolio** : https://ludovic-leveneur.re  
