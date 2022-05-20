@@ -22,5 +22,5 @@ N'hésitez pas à visiter **mon portfolio** : https://ludovic-leveneur.re
 
 # GitHub Statistics
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ludovicl974&show_icons=true&hide_border=true&theme=tokyonight">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludovicl974&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Cyb3rghostx&show_icons=true&hide_border=true&theme=tokyonight">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyb3rghostx&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">
